@@ -69,7 +69,7 @@ Thus, the schema **separates general product data from variation-specific and at
 | File Name            | Description                                                                |
 |----------------------|----------------------------------------------------------------------------|
 | `ecommerce.sql`       | Full SQL script that creates all tables, relationships, and constraints.  |
-| `ERD.png` (optional)  | Entity-Relationship Diagram showing the database structure visually.      |
+| `ERD.png`  | Entity-Relationship Diagram showing the database structure visually.      |
 | `README.md`           | This documentation explaining the database design and decisions.         |
 
 ---
