@@ -120,11 +120,6 @@ _Contributors:_ Davis Ongeri
 
 ---
 
-# 📸 Screenshot
-
-_(Insert ERD screenshot image if available.)_
-
----
 
 # ✨ End of README ✨
 
