@@ -79,7 +79,7 @@ Thus, the schema **separates general product data from variation-specific and at
 1. Install MySQL Server (or use any database management tool like MySQL Workbench).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ecommerce-database.git
+   git clone https://github.com/davieee21/E-commerce-Database-Design
    ```
 3. Open your SQL client and run:
    ```sql
